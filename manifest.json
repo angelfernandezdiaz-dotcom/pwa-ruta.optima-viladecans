@@ -1,6 +1,6 @@
 {
   "name": "Ruta Òptima Viladecans",
-  "short_name": "A*-Dijkstra",
+  "short_name": "OptiRoute",
   "description": "Simulació d'algorismes per al càlcul de rutes òptimes al mapa de Viladecans",
   "start_url": "/",
   "display": "standalone",
